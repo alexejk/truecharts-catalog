@@ -1051,9 +1051,9 @@
             "location": "/home/runner/work/catalog/catalog/stable/valheim",
             "healthy": true,
             "healthy_error": null,
-            "latest_version": "5.0.14",
+            "latest_version": "5.0.15",
             "latest_app_version": "latest",
-            "latest_human_version": "latest_5.0.14",
+            "latest_human_version": "latest_5.0.15",
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/valheim.png"
         },
         "nano-wallet": {
